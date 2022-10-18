@@ -1,0 +1,31 @@
+div {
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    background-color: #462f3b;
+    padding: 50px;
+    border-radius: 25px;
+}
+
+html {
+    background-color: #3a3a3a;
+}
+
+button {
+    background-color: #3a3a3a;
+    color: #7a2552;
+    padding: 5px 15px;
+    font-variant: small-caps;
+    border-radius: 5px;
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+button:hover {
+    background-color: rgb(85, 85, 85);
+    cursor: pointer;
+}
+
+p {
+    font-size: 20px;
+}
